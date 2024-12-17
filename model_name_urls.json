@@ -1,0 +1,250 @@
+{
+    "llama-2-7b.Q2_K": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q2_K.gguf?download=true",
+        "size_gb": 2.83
+    },
+    "llama-2-7b.Q3_K_L": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q3_K_L.gguf?download=true",
+        "size_gb": 3.6
+    },
+    "llama-2-7b.Q3_K_M": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q3_K_M.gguf?download=true",
+        "size_gb": 3.3
+    },
+    "llama-2-7b.Q3_K_S": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q3_K_S.gguf?download=true",
+        "size_gb": 2.95
+    },
+    "llama-2-7b.Q4_0": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q4_0.gguf?download=true",
+        "size_gb": 3.83
+    },
+    "llama-2-7b.Q4_K_M": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q4_K_M.gguf?download=true",
+        "size_gb": 4.08
+    },
+    "llama-2-7b.Q4_K_S": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q4_K_S.gguf?download=true",
+        "size_gb": 3.86
+    },
+    "llama-2-7b.Q5_0": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q5_0.gguf?download=true",
+        "size_gb": 4.65
+    },
+    "llama-2-7b.Q5_K_M": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q5_K_M.gguf?download=true",
+        "size_gb": 4.78
+    },
+    "llama-2-7b.Q5_K_S": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q5_K_S.gguf?download=true",
+        "size_gb": 4.65
+    },
+    "llama-2-7b.Q6_K": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q6_K.gguf?download=true",
+        "size_gb": 5.53
+    },
+    "llama-2-7b.Q8_0": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-7B-GGUF/resolve/main/llama-2-7b.Q8_0.gguf?download=true",
+        "size_gb": 7.16
+    },
+    "llama-2-70b.Q2_K": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q2_K.gguf?download=true",
+        "size_gb": 29.3
+    },
+    "llama-2-70b.Q3_K_L": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q3_K_L.gguf?download=true",
+        "size_gb": 36.1
+    },
+    "llama-2-70b.Q3_K_M": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q3_K_M.gguf?download=true",
+        "size_gb": 33.2
+    },
+    "llama-2-70b.Q3_K_S": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q3_K_S.gguf?download=true",
+        "size_gb": 29.9
+    },
+    "llama-2-70b.Q4_0": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q4_0.gguf?download=true",
+        "size_gb": 38.9
+    },
+    "llama-2-70b.Q4_K_M": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q4_K_M.gguf?download=true",
+        "size_gb": 41.4
+    },
+    "llama-2-70b.Q4_K_S": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q4_K_S.gguf?download=true",
+        "size_gb": 39.1
+    },
+    "llama-2-70b.Q5_0": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q5_0.gguf?download=true",
+        "size_gb": 47.5
+    },
+    "llama-2-70b.Q5_K_M": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q5_K_M.gguf?download=true",
+        "size_gb": 48.8
+    },
+    "llama-2-70b.Q5_K_S": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q5_K_S.gguf?download=true",
+        "size_gb": 47.5
+    },
+    "llama-2-70b.Q6_K-split-a": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q6_K.gguf-split-a?download=true",
+        "size_gb": 36.7
+    },
+    "llama-2-70b.Q6_K-split-b": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q6_K.gguf-split-b?download=true",
+        "size_gb": 19.9
+    },
+    "llama-2-70b.Q8_0-split-a": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q8_0.gguf-split-a?download=true",
+        "size_gb": 36.7
+    },
+    "llama-2-70b.Q8_0-split-b": {
+        "url": "https://huggingface.co/TheBloke/Llama-2-70B-GGUF/resolve/main/llama-2-70b.Q8_0.gguf-split-b?download=true",
+        "size_gb": 36.6
+    },
+    "stablelm-zephyr-3b.Q2_K": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q2_K.gguf?download=true",
+        "size_gb": 1.2
+    },
+    "stablelm-zephyr-3b.Q3_K_L": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q3_K_L.gguf?download=true",
+        "size_gb": 1.51
+    },
+    "stablelm-zephyr-3b.Q3_K_M": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q3_K_M.gguf?download=true",
+        "size_gb": 1.39
+    },
+    "stablelm-zephyr-3b.Q3_K_S": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q3_K_S.gguf?download=true",
+        "size_gb": 1.25
+    },
+    "stablelm-zephyr-3b.Q4_0": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q4_0.gguf?download=true",
+        "size_gb": 1.61
+    },
+    "stablelm-zephyr-3b.Q4_K_M": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q4_K_M.gguf?download=true",
+        "size_gb": 1.71
+    },
+    "stablelm-zephyr-3b.Q4_K_S": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q4_K_S.gguf?download=true",
+        "size_gb": 1.62
+    },
+    "stablelm-zephyr-3b.Q5_0": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q5_0.gguf?download=true",
+        "size_gb": 1.94
+    },
+    "stablelm-zephyr-3b.Q5_K_M": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q5_K_M.gguf?download=true",
+        "size_gb": 1.99
+    },
+    "stablelm-zephyr-3b.Q5_K_S": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q5_K_S.gguf?download=true",
+        "size_gb": 1.94
+    },
+    "stablelm-zephyr-3b.Q6_K": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q6_K.gguf?download=true",
+        "size_gb": 2.3
+    },
+    "stablelm-zephyr-3b.Q8_0": {
+        "url": "https://huggingface.co/TheBloke/stablelm-zephyr-3b-GGUF/resolve/main/stablelm-zephyr-3b.Q8_0.gguf?download=true",
+        "size_gb": 2.97
+    },
+    "mistral-7b-instruct-v0.2.Q2_K": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q2_K.gguf?download=true",
+        "size_gb": "3.08"
+    },
+    "mistral-7b-instruct-v0.2.Q3_K_L": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q3_K_L.gguf?download=true",
+        "size_gb": "3.82"
+    },
+    "mistral-7b-instruct-v0.2.Q3_K_M": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q3_K_M.gguf?download=true",
+        "size_gb": "3.52"
+    },
+    "mistral-7b-instruct-v0.2.Q3_K_S": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q3_K_S.gguf?download=true",
+        "size_gb": "3.16"
+    },
+    "mistral-7b-instruct-v0.2.Q4_0": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_0.gguf?download=true",
+        "size_gb": "4.11"
+    },
+    "mistral-7b-instruct-v0.2.Q4_K_M": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf?download=true",
+        "size_gb": "4.37"
+    },
+    "mistral-7b-instruct-v0.2.Q4_K_S": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q4_K_S.gguf?download=true",
+        "size_gb": "4.14"
+    },
+    "mistral-7b-instruct-v0.2.Q5_0": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q5_0.gguf?download=true",
+        "size_gb": "5"
+    },
+    "mistral-7b-instruct-v0.2.Q5_K_M": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q5_K_M.gguf?download=true",
+        "size_gb": "5.13"
+    },
+    "mistral-7b-instruct-v0.2.Q5_K_S": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q5_K_S.gguf?download=true",
+        "size_gb": "5"
+    },
+    "mistral-7b-instruct-v0.2.Q6_K": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q6_K.gguf?download=true",
+        "size_gb": "5.94"
+    },
+    "mistral-7b-instruct-v0.2.Q8_0": {
+        "url": "https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/resolve/main/mistral-7b-instruct-v0.2.Q8_0.gguf?download=true",
+        "size_gb": "7.7"
+    },
+    "phi-2.Q2_K": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q2_K.gguf?download=true",
+        "size_gb": "1.17"
+    },
+    "phi-2.Q3_K_L": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q3_K_L.gguf?download=true",
+        "size_gb": "1.6"
+    },
+    "phi-2.Q3_K_M": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q3_K_M.gguf?download=true",
+        "size_gb": "1.48"
+    },
+    "phi-2.Q3_K_S": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q3_K_S.gguf?download=true",
+        "size_gb": "1.25"
+    },
+    "phi-2.Q4_0": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q4_0.gguf?download=true",
+        "size_gb": "1.6"
+    },
+    "phi-2.Q4_K_M": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q4_K_M.gguf?download=true",
+        "size_gb": "1.79"
+    },
+    "phi-2.Q4_K_S": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q4_K_S.gguf?download=true",
+        "size_gb": "1.62"
+    },
+    "phi-2.Q5_0": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q5_0.gguf?download=true",
+        "size_gb": "1.93"
+    },
+    "phi-2.Q5_K_M": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q5_K_M.gguf?download=true",
+        "size_gb": "2.07"
+    },
+    "phi-2.Q5_K_S": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q5_K_S.gguf?download=true",
+        "size_gb": "1.93"
+    },
+    "phi-2.Q6_K": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q6_K.gguf?download=true",
+        "size_gb": "2.29"
+    },
+    "phi-2.Q8_0": {
+        "url": "https://huggingface.co/TheBloke/phi-2-GGUF/resolve/main/phi-2.Q8_0.gguf?download=true",
+        "size_gb": "2.96"
+    }
+}
